@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    /* margin: 0;
+    padding: 0; */
 }
 :root{
     font-family: "Open Sans", sans-serif;
@@ -25,5 +25,20 @@ p{
 }
 
 ul li {
-  color: #333333;
+    color: #0c51a7;
+    font-weight: bold;
+}
+.casais {
+  color: purple;
+  font-weight: bold;
+}
+
+.familia {
+  color: deeppink;
+  font-weight: bold;
+}
+
+.orcamento {
+  color: darkorange;
+  font-weight: bold;
 }
