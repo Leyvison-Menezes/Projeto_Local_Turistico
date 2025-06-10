@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+}
+.body{
+    background-color: #F5F4F0;
+}
+/* Transformando o parágrafo após a imagem em itálico */
+#busan img + p{
+    font-style: italic;
+}
+/* Caracterizando a fonte das frases de abertura das seções */
+#opening{
+    color: #E1624F;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+p{
+    color: #333;
+}
+
+ul li {
+  color: #333333;
+}
