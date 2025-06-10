@@ -1,6 +1,6 @@
 # 🌍 Página de Locais Turísticos
 
-Este projeto foi desenvolvido como parte de um **desafio da Rocketseat**, com o objetivo de praticar **HTML** e **CSS** criando uma página simples e atrativa que apresenta **locais turísticos**.
+Este projeto foi desenvolvido como parte de um **desafio da Rocketseat**, com o objetivo de praticar **HTML** e **CSS** criando uma página simples e atrativa que apresenta **locais turísticos em Busan**.
 
 ## 📁 Estrutura do Projeto
 
